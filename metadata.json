@@ -1,0 +1,6 @@
+{
+  "name": "ICT VWAP Agents",
+  "description": "Live ICT liquidity sweep and anchored VWAP trading workstation with six autonomous evaluation agents, paper execution engine, and Deriv multiplier integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
